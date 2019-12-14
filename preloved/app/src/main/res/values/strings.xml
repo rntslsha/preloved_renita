@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Preloved</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">login</string>
+    <string name="skip">help</string>
+
+    <string name="slide_1_title">Taste Made Indonesia</string>
+    <string name="slide_1_desc">Rasakan Berbagai Kuliner yang Akan Memanjakan Lidahmu</string>
+    <string name="title_activity_isi_app">IsiApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_isi_tab">IsiTab</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+</resources>
